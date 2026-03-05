@@ -70,14 +70,12 @@ Dự án được thiết kế để giải quyết các bài toán trọng tâm
 ## IV. Thông tin Chi tiết (Insights)
 
 1.  **Về Biến động nhân sự (Attrition):**
-    * Khối **Production (Sản xuất)** ghi nhận số lượng nhân viên nghỉ việc cao nhất, đặc biệt tập trung ở vị trí *Production Technician I và II*.
+    * Khối **Production (Sản xuất)** ghi nhận số lượng nhân viên nghỉ việc cao nhất, đặc biệt tập trung ở vị trí *Production Technician I và II* với tỷ lệ nghỉ việc (Turnover Rate) lần lượt là 39.10% và 47.27%.
     * Các nguyên nhân nghỉ việc (Termination Reason) phổ biến nhất liên quan đến việc không hài lòng, tìm được cơ hội mới (Another position) hoặc do mức lương chưa phù hợp.
 2.  **Về Hiệu quả Tuyển dụng (Recruitment Source):**
-    * Các nền tảng như *Indeed* và *LinkedIn* là nguồn cung cấp số lượng ứng viên đầu vào lớn nhất. 
+    * Các nền tảng như *Indeed* và *LinkedIn* là nguồn cung cấp số lượng ứng viên đầu vào lớn nhất chiếm lần lượt 81% và 73%.
     * Tuy nhiên, kênh *Employee Referral* (Nhân viên nội bộ giới thiệu) lại mang đến những nhân sự có tỷ lệ giữ chân (Retention rate) cao và điểm đánh giá hiệu suất tốt hơn mức trung bình.
-3.  **Về Hiệu suất và Sự hài lòng:**
-    * Tồn tại mối liên hệ nghịch biến giữa Điểm hài lòng (Satisfaction Score) và Số ngày vắng mặt (Absence Days). Nhân viên có điểm hài lòng thấp thường có số ngày nghỉ phép đột xuất cao hơn.
-4.  **Về Phân bổ Ngân sách Lương:**
+3.  **Về Phân bổ Ngân sách Lương:**
     * Các bộ phận mang tính chuyên môn kỹ thuật cao như *Software Engineering* và *IT/IS* có mức lương trung bình dẫn đầu công ty. Không có dấu hiệu chênh lệch lương rõ rệt giữa nam và nữ ở cùng một vị trí công việc.
 
 ---
