@@ -41,7 +41,7 @@ Dự án được thiết kế để giải quyết các bài toán trọng tâm
 Để đảm bảo Dashboard mang lại giá trị thực tiễn cao nhất, dự án được triển khai theo 5 bước của phương pháp Design Thinking:
 
 1.  **Empathize (Thấu cảm):** Đặt mình vào góc nhìn của Giám đốc Nhân sự (CHRO). Họ cần theo dõi nhanh tỷ lệ nghỉ việc (đang gây tốn kém chi phí) và đánh giá được chất lượng của các kênh tuyển dụng để phân bổ ngân sách năm tới.
-2.  **Define (Xác định vấn đề):** Lựa chọn các chỉ số cốt lõi (KPIs) cần hiển thị: *Total Employees, Active Employees, Attrition Rate, Average Salary, Average Satisfaction*.
+2.  **Define (Xác định vấn đề):** Lựa chọn các chỉ số cốt lõi (KPIs) cần hiển thị: *Total Employees, Total Salary, Turnover Rate, Average Tenure, Absence Rate, Average Satisfaction Score, Average Age*.
 3.  **Ideate (Lên ý tưởng):** Cấu trúc báo cáo thành các góc nhìn chuyên sâu để người dùng không bị ngợp dữ liệu: 
     * *Overview:* Nhìn nhận bức tranh toàn cảnh.
     * *Demographics:* Hiểu rõ sự đa dạng của lực lượng lao động.
