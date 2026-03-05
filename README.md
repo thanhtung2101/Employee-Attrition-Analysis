@@ -60,12 +60,12 @@ Dự án được thiết kế để giải quyết các bài toán trọng tâm
 * **Trang 1: HR Overview & Demographics (Tổng quan Nhân sự & Nhân khẩu học)**
 <img width="1240" height="690" alt="image" src="https://github.com/user-attachments/assets/b1fe63a0-d147-4e41-bf86-d02e9fe5f271" />
 
-    * *Mô tả:* Cung cấp bức tranh toàn cảnh về lực lượng lao động thông qua các chỉ số KPI cốt lõi (Tổng số nhân viên, Mức lương trung bình, Tỷ lệ nhân viên đang làm việc). Trang này cũng kết hợp phân tích sự phân bổ nhân sự theo phòng ban, cũng như các yếu tố đa dạng/nhân khẩu học (Giới tính, Độ tuổi, Tình trạng hôn nhân).
+   Cung cấp bức tranh toàn cảnh về lực lượng lao động thông qua các chỉ số KPI cốt lõi (Tổng số nhân viên, Mức lương trung bình, Tỷ lệ nhân viên đang làm việc). Trang này cũng kết hợp phân tích sự phân bổ nhân sự theo phòng ban, cũng như các yếu tố đa dạng/nhân khẩu học (Giới tính, Độ tuổi, Tình trạng hôn nhân).
 
 * **Trang 2: Attrition & Performance Analysis (Phân tích Nghỉ việc & Hiệu suất)**
 <img width="1242" height="695" alt="image" src="https://github.com/user-attachments/assets/f5e2e7c4-a990-4bf1-8cd5-966bb3e46f56" />
   
-    * *Mô tả:* Đi sâu vào phân tích rủi ro nhân sự thông qua tỷ lệ biến động (Turnover/Attrition Rate), chi tiết các lý do nghỉ việc và đánh giá hiệu quả của các nguồn tuyển dụng. Đồng thời, trang này đối chiếu mức độ hài lòng (Satisfaction), điểm gắn kết (Engagement) với số ngày vắng mặt và đánh giá hiệu suất của nhân viên để tìm ra các xu hướng tiềm ẩn.
+   Đi sâu vào phân tích rủi ro nhân sự thông qua tỷ lệ biến động (Turnover/Attrition Rate), chi tiết các lý do nghỉ việc và đánh giá hiệu quả của các nguồn tuyển dụng. Đồng thời, trang này đối chiếu mức độ hài lòng (Satisfaction), điểm gắn kết (Engagement) với số ngày vắng mặt và đánh giá hiệu suất của nhân viên để tìm ra các xu hướng tiềm ẩn.
 
 ## IV. Thông tin Chi tiết (Insights)
 
