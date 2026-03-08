@@ -6,7 +6,7 @@
 ### 1. Giới thiệu về Bộ dữ liệu 
 Dự án này sử dụng bộ dữ liệu Nhân sự (HR Dataset) mô phỏng thông tin chi tiết của lực lượng lao động trong một doanh nghiệp. Bộ dữ liệu chứa đựng các thông tin quan trọng từ khi nhân viên được tuyển dụng cho đến khi họ rời đi, bao gồm: thông tin nhân khẩu học (tuổi, giới tính), thông tin công việc (vị trí, phòng ban, mức lương), kênh tuyển dụng, điểm đánh giá hiệu suất, mức độ gắn kết và lý do nghỉ việc.
 
-Mục tiêu của dự án là xây dựng một hệ thống Dashboard trực quan trên Power BI giúp bộ phận Nhân sự (HR) và Ban Giám đốc dễ dàng theo dõi sức khỏe nhân sự của tổ chức, từ đó đưa ra các quyết định chiến lược về giữ chân nhân tài và tối ưu hóa chi phí.
+Mục tiêu của dự án là xây dựng một hệ thống Dashboard trực quan trên Power BI giúp bộ phận Nhân sự (HR) và Ban Giám đốc dễ dàng theo dõi tình hình nhân sự của tổ chức, từ đó đưa ra các quyết định chiến lược về giữ chân nhân tài và tối ưu hóa chi phí.
 
 ### 2. Giải thích về bộ dữ liệu (Data Dictionary)
 Dữ liệu được tổ chức thành mô hình quan hệ (Relational Model) với bảng trung tâm là `Employee` và các bảng danh mục (Dimension tables) bổ trợ. Các trường dữ liệu chính bao gồm:
